@@ -1,2 +1,2 @@
 # azure-security-labs
-Practical Azure security labs covering identity, network security, monitoring, and governance controls.
+Hands-on Azure security and governance labs aligned to enterprise cloud security practices.
