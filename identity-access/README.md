@@ -111,3 +111,7 @@ Use SSO
 Enforce MFA/passwordless
 Apply conditional access / attribute‑based access
 The cloud‑specific sections differ only in naming and tooling — the principles are identical.
+
+
+## NOTES
+Understanding where you are in the Azure ecosystem is critical. Entra ID, the Azure portal, and individual resource scopes each expose different controls, permissions, and configuration paths. Your location in the hierarchy directly affects what settings you can modify and how identity and access changes behave.
